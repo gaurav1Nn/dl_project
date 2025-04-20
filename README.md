@@ -43,6 +43,6 @@ The goal of this project is to develop a machine learning model that can accurat
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/gaurav1Nn/dl_project.git
-2.**Install Dependencies**
- ```bash
+2. **Install Dependencies**
+   ```bash
     pip install tensorflow keras matplotlib numpy pillow
