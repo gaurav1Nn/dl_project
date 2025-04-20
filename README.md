@@ -38,6 +38,13 @@ The goal of this project is to develop a machine learning model that can accurat
 - Models are evaluated based on accuracy and loss.
 - The ResNet model achieved a test accuracy of approximately 79.8%.
 
+## How It Works
+
+1. **Data Preprocessing**: Images are loaded and augmented to increase dataset diversity.
+2. **Model Training**: Different architectures (CNN, VGG19, ResNet) are trained on the dataset.
+3. **Evaluation**: Models are evaluated on a test set to determine their accuracy and effectiveness.
+4. **Comparison**: The performance of each model is compared to identify the best approach.
+
 ## How to Run
 
 1. **Clone the Repository**:
